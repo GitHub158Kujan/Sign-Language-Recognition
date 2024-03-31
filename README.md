@@ -62,7 +62,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 - [Keras](https://keras.io/)
-
-## Contact
-
-For any inquiries or suggestions, please feel free to contact [your-email-address].
