@@ -26,7 +26,7 @@ Sign language recognition is an important application of computer vision and mac
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/sign-language-recognition.git
+   git clone https://github.com/GitHub158Kujan/sign-language-recognition.git
    ```
 
 2. Install dependencies:
